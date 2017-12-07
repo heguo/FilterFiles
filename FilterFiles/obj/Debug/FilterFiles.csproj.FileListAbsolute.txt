@@ -1,0 +1,8 @@
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.MainForm.resources
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.csproj.GenerateResource.Cache
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.csproj.CoreCompileInputs.cache
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.Properties.Resources.resources
+D:\code\FilterFiles\FilterFiles\bin\Debug\FilterFiles.exe
+D:\code\FilterFiles\FilterFiles\bin\Debug\FilterFiles.pdb
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.exe
+D:\code\FilterFiles\FilterFiles\obj\Debug\FilterFiles.pdb
